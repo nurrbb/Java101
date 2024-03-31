@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AreaCalcultor/AreaCalcultor.iml" filepath="$PROJECT_DIR$/AreaCalcultor/AreaCalcultor.iml" />
       <module fileurl="file://$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" filepath="$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HypotenurseCalcultor/HypotenurseCalcultor.iml" filepath="$PROJECT_DIR$/HypotenurseCalcultor/HypotenurseCalcultor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
     </modules>
