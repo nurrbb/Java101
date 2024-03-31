@@ -31,6 +31,7 @@ public class Main {
         onion = input.nextDouble();
 
         total = (apple*applePerKg)+(banana*bananaPerKg)+(pear*pearPerKg)+(tomato*tomatoPerKg)+(eggplant*eggplantPerKg)+(onionPerKg*onion);
-        System.out.println("Total: " +total + "TL");
+        String format = String.format("%.2f", total);
+        System.out.println("Total: " +format + "TL");
     }
     }
