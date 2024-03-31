@@ -11,6 +11,5 @@ public class Main {
         a=input.nextInt();
         area = (pi*(r*r)*a)/360;
         System.out.println("Area of "+a+" angle: "+area);
-
         }
     }
