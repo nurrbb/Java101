@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" filepath="$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserLogIn/UserLogIn.iml" filepath="$PROJECT_DIR$/UserLogIn/UserLogIn.iml" />
     </modules>
   </component>
 </project>
