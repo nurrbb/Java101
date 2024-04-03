@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" filepath="$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserLogIn/UserLogIn.iml" filepath="$PROJECT_DIR$/UserLogIn/UserLogIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZodiacFinder/ZodiacFinder.iml" filepath="$PROJECT_DIR$/ZodiacFinder/ZodiacFinder.iml" />
     </modules>
   </component>
 </project>
