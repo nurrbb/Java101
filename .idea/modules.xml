@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivitySuggester/ActivitySuggester.iml" filepath="$PROJECT_DIR$/ActivitySuggester/ActivitySuggester.iml" />
       <module fileurl="file://$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" filepath="$PROJECT_DIR$/AreaCalculator/AreaCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" filepath="$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
