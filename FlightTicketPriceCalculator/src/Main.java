@@ -43,6 +43,7 @@ public class Main {
                         System.out.println("Seniors aged 65 and over received a 30% discount!");
                     }
                     if (flightType == 2) {
+                        price *= 2;
                         price -= (price * 20) / 100;
                         System.out.println("Special 20% discount applied for round-trip tickets!");
                     }
