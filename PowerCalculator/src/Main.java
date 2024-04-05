@@ -1,3 +1,4 @@
+//The program calculates the value obtained by raising a base number to the given exponent.
 import java.util.Scanner;
 
 public class Main {
