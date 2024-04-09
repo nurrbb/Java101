@@ -1,5 +1,7 @@
 # Java101
 
+In this commit, a series of practical and assignment projects were completed as part of Java 101 learning journey. The projects covered a range of fundamental concepts and applications in Java programming.
+
 ----------------------------------------------------
 
 Practical - Calculating Grade Point Average
