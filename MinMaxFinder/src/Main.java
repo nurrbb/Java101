@@ -8,18 +8,18 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
         System.out.println("How many numbers will you enter? ");
-        int n= input.nextInt();
+        int n = input.nextInt();
 
-        while (n<=0){
+        while (n <= 0) {
             System.out.print("Please enter positive number:");
-            n=input.nextInt();
+            n = input.nextInt();
         }
 
 
-        int max =Integer.MAX_VALUE;
-        int min =Integer.MIN_VALUE;
+        int max = Integer.MAX_VALUE;
+        int min = Integer.MIN_VALUE;
         System.out.println("Enter your values.");
-        for (int i=0; i<n;i++){
+        for (int i = 0; i < n; i++) {
             int num = input.nextInt();
             if (num > min) {
                 min = num;
