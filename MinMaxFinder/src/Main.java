@@ -1,3 +1,6 @@
+// This program takes N integers entered from the keyboard in Java,
+// finds the largest and smallest numbers among them, and prints them to the screen.
+
 import java.util.Scanner;
 
 public class Main {
