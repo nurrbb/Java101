@@ -37,5 +37,35 @@ Assignment - Chinese Zodiac Calculation
 Assignment - Leap Year Calculation
 
 ----------------------------------------------------
+Practical - Program Finding Even Numbers Up to the Entered Number
+
+Practical - Program Calculating the Sum of Odd Numbers
+
+Practical - Program Finding Powers of 2 Less Than the Entered Number
+
+Practical - Program Calculating Factorials
+
+Practical - Program Calculating Exponential Numbers
+
+Practical - Program Finding Armstrong Numbers
+
+Practical - Program Finding Harmonic Numbers
+
+Practical - Triangle Construction with Stars
+
+Practical - ATM Project
+
+Practical - Program Finding GCD and LCM
+
+Assignment - Program Finding Min and Max Values from Entered Numbers
+
+Assignment - Program Finding Perfect Numbers
+
+Assignment - Inverted Triangle Construction
+
+Assignment - Program Finding Prime Numbers Between 1-100
+
+Assignment - Fibonacci Series
+----------------------------------------------------
 
 
