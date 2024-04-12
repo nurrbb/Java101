@@ -10,7 +10,6 @@ public class Main {
         int value = input.nextInt();
         int sum=0;
 
-
         for (int i=1; value>i;i++){
             if(value%i ==0){
                 sum+=i;
