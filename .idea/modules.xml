@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" filepath="$PROJECT_DIR$/AverageCalculator/AverageCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" filepath="$PROJECT_DIR$/BasicCalculator/BasicCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChineseZodiacFinder/ChineseZodiacFinder.iml" filepath="$PROJECT_DIR$/ChineseZodiacFinder/ChineseZodiacFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleSliceCalculator/CircleSliceCalculator.iml" filepath="$PROJECT_DIR$/CircleSliceCalculator/CircleSliceCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" filepath="$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" />
