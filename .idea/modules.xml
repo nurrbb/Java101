@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" filepath="$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberSorter/NumberSorter.iml" filepath="$PROJECT_DIR$/NumberSorter/NumberSorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" filepath="$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromeNumFinder/PalindromeNumFinder.iml" filepath="$PROJECT_DIR$/PalindromeNumFinder/PalindromeNumFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/PassFail/PassFail.iml" filepath="$PROJECT_DIR$/PassFail/PassFail.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PowerCalculator/PowerCalculator.iml" filepath="$PROJECT_DIR$/PowerCalculator/PowerCalculator.iml" />
