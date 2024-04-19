@@ -70,5 +70,16 @@ Assignment - Program Finding Prime Numbers Between 1-100
 Assignment - Fibonacci Series
 
 ----------------------------------------------------
+Practice - Palindrome Numbers
 
+Practice - Fibonacci Series Finder with Recursion
 
+Practice - Advanced Calculator
+
+Assignment - Exponentiation Calculator Program
+
+Assignment - Prime Number Finder Program
+
+Assignment - Method Creation According to Pattern
+
+----------------------------------------------------
