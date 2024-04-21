@@ -1,3 +1,8 @@
+//The Course class has been enriched with a section for verbal assessment grades,
+// along with individual specifications for their impact on the overall average for each course.
+// These grades contribute to the average calculation based on the designated percentage impact.
+// Additionally, student averages were converted to a 4-point scale.
+
 public class Main {
 
     public static void main(String[] args) {
