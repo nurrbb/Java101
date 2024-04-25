@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/HarmonicSeriesCalc/HarmonicSeriesCalc.iml" filepath="$PROJECT_DIR$/HarmonicSeriesCalc/HarmonicSeriesCalc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LetterBwithStars/LetterBwithStars.iml" filepath="$PROJECT_DIR$/LetterBwithStars/LetterBwithStars.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" filepath="$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberSorter/NumberSorter.iml" filepath="$PROJECT_DIR$/NumberSorter/NumberSorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" filepath="$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" />
