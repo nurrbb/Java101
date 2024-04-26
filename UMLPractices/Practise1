@@ -1,1 +1,12 @@
-![](https://github.com/nurrbb/Java101/issues/1#issue-2266156145)
+
+Here's the translation:
+
+1 - There are classrooms, work offices, and departments belonging to the university.
+
+2 - There are offices belonging to departments.
+
+3 - There are employees belonging to the university. These employees can be professors or clerks.
+
+4 - Each employee works in an office.
+
+Now, I'll provide the class diagram based on this description.
