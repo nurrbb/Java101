@@ -16,7 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" filepath="$PROJECT_DIR$/CombinationCalculator/CombinationCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DigitSumCalculator/DigitSumCalculator.iml" filepath="$PROJECT_DIR$/DigitSumCalculator/DigitSumCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DivisorAverageCalculator/DivisorAverageCalculator.iml" filepath="$PROJECT_DIR$/DivisorAverageCalculator/DivisorAverageCalculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DuplicateEvenNumFinder/DuplicateEvenNumFinder.iml" filepath="$PROJECT_DIR$/DuplicateEvenNumFinder/DuplicateEvenNumFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuplicateEvenNumF/DuplicateEvenNumF.iml" filepath="$PROJECT_DIR$/DuplicateEvenNumF/DuplicateEvenNumF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuplicateNums/DuplicateNums.iml" filepath="$PROJECT_DIR$/DuplicateNums/DuplicateNums.iml" />
       <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/EmployeeInfoSystem/EmployeeInfoSystem.iml" filepath="$PROJECT_DIR$/EmployeeInfoSystem/EmployeeInfoSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fibonacci Serie/Fibonacci Serie.iml" filepath="$PROJECT_DIR$/Fibonacci Serie/Fibonacci Serie.iml" />
@@ -28,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/LetterBwithStars/LetterBwithStars.iml" filepath="$PROJECT_DIR$/LetterBwithStars/LetterBwithStars.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" filepath="$PROJECT_DIR$/MinMaxFinder/MinMaxFinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" filepath="$PROJECT_DIR$/NumberGuessingGame/NumberGuessingGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberSorter/NumberSorter.iml" filepath="$PROJECT_DIR$/NumberSorter/NumberSorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" filepath="$PROJECT_DIR$/OddNumStopper/OddNumStopper.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromeNumFinder/PalindromeNumFinder.iml" filepath="$PROJECT_DIR$/PalindromeNumFinder/PalindromeNumFinder.iml" />
@@ -46,6 +48,7 @@
       <module fileurl="file://$PROJECT_DIR$/StudentInfoSyst/StudentInfoSyst.iml" filepath="$PROJECT_DIR$/StudentInfoSyst/StudentInfoSyst.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" filepath="$PROJECT_DIR$/TaxCalculator/TaxCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" filepath="$PROJECT_DIR$/TaxiFareCalculator/TaxiFareCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transpoze/Transpoze.iml" filepath="$PROJECT_DIR$/Transpoze/Transpoze.iml" />
       <module fileurl="file://$PROJECT_DIR$/UserLogIn/UserLogIn.iml" filepath="$PROJECT_DIR$/UserLogIn/UserLogIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZodiacFinder/ZodiacFinder.iml" filepath="$PROJECT_DIR$/ZodiacFinder/ZodiacFinder.iml" />
     </modules>
