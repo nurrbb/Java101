@@ -83,3 +83,28 @@ Assignment - Prime Number Finder Program
 Assignment - Method Creation According to Pattern
 
 ----------------------------------------------------
+Practice - Student Information System
+
+Practice - Boxing Game
+
+Assignment - Salary Calculator
+----------------------------------------------------
+Practice - Program to Find the Average of Elements in an Array
+
+Practice - Program to Find the Maximum and Minimum Values in an Array
+
+Practice - Program to Print 'A' using Multidimensional Arrays
+
+Practice - Program to Find Duplicate Numbers in an Array
+
+Assignment - Program to Sort Elements in an Array
+
+Assignment - Program to Find the Frequency of Elements in an Array
+
+Assignment - Finding the Transpose of a Matrix
+----------------------------------------------------
+Practice - Number Guessing Game
+
+Practice - Program to Find Palindromic Words
+----------------------------------------------------
+Final Project: Minesweeper Game
